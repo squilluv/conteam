@@ -45,8 +45,8 @@ History
 # earlier versions of Drupal are tracked in `community/PHP/`
 
 # Ignore configuration files that may contain sensitive information
-/sites/*/*settings*.php
-/sites/*/*services*.yml
+# /sites/*/*settings*.php
+# /sites/*/*services*.yml
 
 # Ignore paths that may contain user-generated content
 /sites/*/files
@@ -88,7 +88,7 @@ History
 /README.txt
 /robots.txt
 /update.php
-/web.config
+# /web.config
 
     © 2021 GitHub, Inc.
     Terms
